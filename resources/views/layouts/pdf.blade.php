@@ -147,15 +147,14 @@
                         <div class="header-info">
                             <h2 style="font-size: 1.6rem; margin: 0; color: #2563eb; font-weight: 700;">@yield('title', 'Relatório')</h2>
                             <p style="font-size: 10px; color: #aaa;">
-                                MAXSAUDE DISTRIBUIDORA DE PRODUTOS ODONTOLOGICOS E HOSPITALARES LTDA<br>
-                                CNPJ: 53.322.401/0001-24<br>
-                                Endereço: Rua Buriti 47, Centro, Eusébio/Ceará
+                                Stilo Baby<br>                                
+                                Av. Agamenon Magalhães, 135 - Lajedo - PE
                             </p>
                             <p style="font-size: 10px; color: #aaa;">
-                                Telefones: 85 99168-6536 / 85 99172-5715
+                                Telefone:  (87)8162-7846
                             </p>
                             <p style="font-size: 10px; color: #aaa;">
-                                Instagram: @Maxesteticaoficial
+                                Instagram: 
                             </p>
                         </div>
                     </td>
