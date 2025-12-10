@@ -170,17 +170,17 @@
                         <div class="header-info">
                             <h2
                                 style="font-size: 1.1rem; margin: 0; color: #777f1a; font-weight: 700; line-height: 1.1;">
-                                Max Estética</h2>
+                                Stilo Baby</h2>
                             <p style="font-size: 9px; color: #aaa; margin: 1px 0; line-height: 1.1;">
-                                MAXSAUDE DISTRIBUIDORA DE PRODUTOS ODONTOLOGICOS E HOSPITALARES LTDA<br>
-                                CNPJ: 53.322.401/0001-24<br>
-                                Endereço: Rua Buriti 47, Centro, Eusébio/Ceará
+                                Stilo Baby<br>
+                                CNPJ: <br>
+                                Endereço: Av. Agamenon Magalhães, 135 - Lajedo - PE
                             </p>
                             <p style="font-size: 9px; color: #aaa; margin: 1px 0; line-height: 1.1;">
-                                Telefones: 85 99168-6536 / 85 99172-5715
+                                Telefones: (87)8162-7846
                             </p>
                             <p style="font-size: 9px; color: #aaa; margin: 1px 0; line-height: 1.1;">
-                                Instagram: @Maxesteticaoficial
+                                Instagram: 
                             </p>
                         </div>
                     </td>
